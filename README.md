@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning on rust lang
-- 👯 I’m looking to collaborate on PHP packages.
-- 📫 How to reach me: You can send an email to mehedihasansabbirmi@gmail.com
+- 🥘 I’m looking to collaborate on PHP packages.
+- 📫 How to reach me: You can send an email to: mehedihasansabbirmi@gmail.com
 - ⚡ Fun fact: I am currently trying to make a compiler
