@@ -1,10 +1,29 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mehedimi&show_icons=true&theme=highcontrast&count_private=true" alt="Mehedi's Github Stats"/>](https://github.com/mehedimi)
+# 👋 Hi, I'm Mehedi Hasan
 
+I'm a **full-stack web developer** experienced in **Node.js**, **PHP**, and **Vue.js**, with a growing interest in **Rust** for both backend and embedded systems programming.
 
-# Hi 👋, I'm Mehedi Hasan
+---
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning on rust lang
-- 🥘 I’m looking to collaborate on PHP packages.
-- 📫 How to reach me: You can send an email to: mehedihasansabbirmi@gmail.com
-- ⚡ Fun fact: I am currently trying to make a compiler
+### 🧠 What I'm Learning
+- **RustLang** for systems and embedded programming
+- Building a **PHP static analyzer** using Rust
+
+---
+
+### 🛠️ My Tech Stack
+- **Backend**: PHP, Node.js, Rust (exploring)
+- **Frontend**: Vue.js, HTML, CSS, JavaScript
+- **Other**: REST APIs, CLI tools, monorepos, static analysis
+
+---
+
+### 🌐 Find Me Online
+
+- 🌍 Website: [mehedi.im](https://mehedi.im)
+- 💼 LinkedIn: [@mehedimi](https://www.linkedin.com/in/mehedimi)
+- 🐦 Twitter: [@mehedimi](https://twitter.com/mehedimi)
+- 📦 Packagist: [mehedimi](https://packagist.org/packages/mehedimi)
+
+---
+
+Thanks for visiting my profile!
