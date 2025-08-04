@@ -11,7 +11,7 @@ I'm a **full-stack web developer** experienced in **Node.js**, **PHP**, and **Vu
 ---
 
 ### 🛠️ My Tech Stack
-- **Backend**: PHP, Node.js, Rust (exploring)
+- **Backend**: PHP, Laravel, Node.js, Rust (exploring)
 - **Frontend**: Vue.js, HTML, CSS, JavaScript
 - **Other**: REST APIs, CLI tools, monorepos, static analysis
 
