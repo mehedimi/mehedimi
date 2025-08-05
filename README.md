@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehedi Hasan
 
-I'm a **full-stack web developer** experienced in **Node.js**, **PHP**, and **Vue.js**, with a growing interest in **Rust** for both backend and embedded systems programming.
+I'm a **full-stack web developer** experienced in **Node.js**, **Laravel(PHP)**, and **Vue.js**, with a growing interest in **Rust** for both backend and embedded systems programming.
 
 ---
 
