@@ -17,7 +17,7 @@ Currently building the best email countdown timer at [Countdown Builder](http://
 - **Frontend**: Vue.js (Vue 2 & 3), React.js, Pinia/Vuex, Tailwind CSS, Vite
 - **Databases**: MySQL, PostgreSQL, Redis, AWS DynamoDB, Elasticsearch, Meilisearch
 - **DevOps & Infrastructure**: Docker, Google Cloud Functions, AWS Lambda, GitHub Actions, ELK Stack
-- **Other**: REST APIs, OAuth2/JWT, CLI tools, monorepos, static analysis, serverless architectures
+- **Other**: REST APIs, OAuth2/JWT, CLI tools, monorepos, serverless architectures
 
 ---
 
